@@ -1,0 +1,51 @@
+***WBS(Work BreakDown Structure)***
+_____________________________________
+
+***1.Project Management***
+____________________________________
+***1.1 Project Planning***
+
+***1.2 Monitoring & Controlling***
+---------------------------------------
+***2.Data Preparation***
+____________________________________
+ ***2.1 Data Review***
+
+***2.2 Data Cleaning***
+
+ ***2.3 Data Transformation***
+-----------------------------------
+
+***3.Initial Analysis***
+____________________________________
+***3.1 Overview Analysis***
+
+***3.2 Basic Statistics***
+------------------------------------
+
+***4.Detailed Analysis***
+____________________________________
+ ***4.1 Trip Frequency Analysis***
+
+***4.2 Speed Analysis***
+
+***4.3 Purpose Analysis***
+
+***4.4 Time of Day Analysis***
+
+***4.5 Seasonal Trends***
+
+***5.Reporting***
+____________________________________
+***5.1 Insight Generation***
+
+ ***5.2 Recommendations***
+
+ ***5.3 Documentation***
+---------------------------------------
+***6.Review and Revision***
+____________________________________
+***6.1 Review Analysis***
+
+***6.2 Revise Recommendations***
+-----------------------------------------
